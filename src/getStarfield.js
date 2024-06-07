@@ -1,5 +1,5 @@
 /**
- * getStarfield.js — congenial-doodle
+ * getStarfield.js — earth-disco
  * @author bugship
  */
 

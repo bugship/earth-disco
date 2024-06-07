@@ -1,5 +1,5 @@
 /**
- * index.js — congenial-doodle
+ * index.js — earth-disco
  * @author bugship
  */
 

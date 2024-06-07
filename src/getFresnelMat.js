@@ -1,5 +1,5 @@
 /**
- * getFresnelMat.js — congenial-doodle
+ * getFresnelMat.js — earth-disco
  * @author bugship
  */
 
